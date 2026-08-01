@@ -1,0 +1,23 @@
+# Kaminashi (formerly Ulysses, Inc.)
+
+> Kaminashi Inc. (株式会社カミナシ, founded December 2016 as Ulysses Inc. / ユリシーズ株式会社) is a Tokyo-based SaaS company building the "Kaminashi" frontline-operations DX platform for deskless workers — digital checklists and inspections, equipment maintenance (CMMS), frontline employee management, training, and reporting for food manufacturing, logistics, hotels, and machine manufacturing. The company publishes no public developer API surface as of July 2026.
+
+## Company
+
+- [Kaminashi product site](https://kaminashi.jp/): Frontline operations platform — checklists/inspections, CMMS, employee, training, report products
+- [Corporate site](https://corp.kaminashi.jp/): Company overview, leadership, news, press kit
+- [Company overview](https://corp.kaminashi.jp/company): 株式会社カミナシ, founded 2016-12-15, former corporate name Ulysses Inc. (ユリシーズ株式会社); ISMS certified (ISO/IEC 27001:2022)
+- [Security policy](https://corp.kaminashi.jp/security-policy): Information security policy (ISMS)
+- [Privacy policy](https://corp.kaminashi.jp/privacy-policy)
+
+## Resources
+
+- [Official blog (note)](https://note.kaminashi.jp/)
+- [Engineering blog](https://kaminashi-developer.hatenablog.jp/)
+- [Support](https://kaminashi.jp/about/support)
+- [FAQ](https://kaminashi.jp/about/faq)
+- [Careers](https://careers.kaminashi.jp/)
+
+## API Evangelist profile
+
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/ulysses/refs/heads/main/apis.yml): APIs.json profile for this company (no public APIs catalogued)

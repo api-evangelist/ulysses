@@ -1,0 +1,22 @@
+generated: '2026-07-21'
+method: searched
+source: https://kaminashi.jp
+note: >-
+  Probed the /.well-known/ discovery surface of the Kaminashi web hosts
+  (kaminashi.jp and corp.kaminashi.jp). No well-known documents are
+  published; every probe returned 404. Absence recorded as valid data.
+hosts:
+  - host: https://kaminashi.jp
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://corp.kaminashi.jp
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
