@@ -13,6 +13,17 @@ description: Kaminashi Inc. (株式会社カミナシ) is a Tokyo-based SaaS com
   hotels, and building maintenance. Surfaced as a portfolio company of 500 Global and a16z.
   The company is ISMS (ISO/IEC 27001) certified and publishes no public developer API surface
   as of July 2026.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
